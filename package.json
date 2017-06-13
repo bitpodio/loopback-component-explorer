@@ -41,6 +41,6 @@
     "lodash": "^3.10.0",
     "loopback-swagger": "git+https://github.com/drmikecrowe/loopback-swagger.git",
     "strong-globalize": "^2.6.2",
-    "swagger-ui": "3.0.14"
+    "swagger-ui": "^2.2.5"
   }
 }

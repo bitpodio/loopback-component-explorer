@@ -36,7 +36,7 @@
     "debug": "^2.2.0",
     "depd": "^1.1.0",
     "lodash": "^3.10.0",
-    "loopback-swagger": "https://github.com/drmikecrowe/loopback-swagger.git",
+    "loopback-swagger": "https://github.com/bitpodio/loopback-swagger.git",
     "strong-globalize": "^2.6.2",
     "swagger-ui": "3.0.14"
   }
